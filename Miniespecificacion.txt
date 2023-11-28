@@ -1,0 +1,6 @@
+1. Inicio
+2. num, i [o-n]
+3. Para (num<--1, num < 13, 3) haga
+4.     << num
+5. Fin Para
+6. Fin
